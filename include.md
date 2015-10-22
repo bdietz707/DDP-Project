@@ -1,6 +1,3 @@
-# DDP-Project
-Developing Data Products Project
-
 ### Explore Boston Housing Data
 
 This application is based on data originally published by Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.

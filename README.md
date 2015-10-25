@@ -11,7 +11,7 @@ The Dataset is described in the following url [UCI MLR Archive](https://archive.
 
 Source code is available on the [GitHub](https://github.com/bdietz707/DDP-Project).
 
-You can adjust the various Boston Housing inputs directly into the text box (or by using the left side panel buttons if you load the Shiny app locally).  The inputs are run through 5 common regressions resulting in Median Values of Homes.  
+You can adjust the various Boston Housing inputs directly into the text box (or by using the left side panel buttons if you load the Shiny app locally).  The inputs are run through 5 common regressions resulting in Median Values of Homes. The button to run the regressions is only used if Shiny is loaded locally and opened in a web browser!
 
 The Root Mean Squared Error is calculated once initially for each regression type.  Lower RMSE values are more accurate.
 
